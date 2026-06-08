@@ -22,7 +22,7 @@ I am currently studying for an MSc Data Science and Artificial Intelligence at Q
 
 ### Contact
 
-You can reach me via [email](kate.chamberlain@sky.com) or [LinkedIn](www.linkedin.com/in/kate-chamberlain2903).
+You can reach me via [email](mailto:kate.chamberlain@sky.com) or [LinkedIn](https://www.linkedin.com/in/kate-chamberlain2903/).
 
 <!--
 **katechamberlain1/katechamberlain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
