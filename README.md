@@ -5,9 +5,9 @@ I am currently studying for an MSc Data Science and Artificial Intelligence at Q
 ### Skills
 
 **Programming Languages:** Python, SQL   
-**Data Analysis:** Pandas, NumPy, SciPy, pyAgrum
+**Data Analysis:** Pandas, NumPy, SciPy, pyAgrum  
 **Machine Learning:** Scikit-learn, PyTorch, Hugging Face Transformers  
-**Information Retrieval:** ElasticSearch
+**Information Retrieval:** ElasticSearch  
 **Visualisation:** Power BI, Matplotlib, Seaborn    
 **Tools:** Git, Jupyter Notebooks, Google Colab   
 
